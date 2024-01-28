@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html{
+    height:100vh;
+    width:100vw;
+}
+
+.main{
+    height:6%;
+    display:flex;
+    justify-content: space-evenly;
+    
+    
+    
+       
+}
+
+#temp1{
+    
+    font-size:90%;
+    font-weight:10%;
+
+}
+
+
+#temp2{
+
+    font-size:90%;
+}
+
+
+
+#cityName1{
+    font-size:100%;
+    width:20%;
+    text-align:center;
+    
+
+}
+#cityName2{
+    font-size:100%;
+    width:20%;
+    text-align:center;
+
+}
+#button{
+    font-size:80%;
+    padding:0.2%;
+    width:5%;
+
+
+}
+.box{
+    display:flex;
+    justify-content:space-around;
+    gap:5%;
+    padding: 10%;
+}
